@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ci346:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ci346-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ci346:war exploded" />
+    </root>
+  </artifact>
+</component>
